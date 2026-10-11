@@ -1,0 +1,12 @@
+company,from_year,file,scale,note
+IBM,0,IBM_1911_CTR.png,1.0,Computing-Tabulating-Recording Co. (1911-1923)
+IBM,1924,IBM_1924_globe.png,1.0,"International Business Machines globe (1924-1946)"
+IBM,1947,IBM_1947_beton.png,1.0,Beton Bold wordmark (1947-1955)
+IBM,1956,IBM_1956_rand.png,1.0,Paul Rand solid wordmark (1956-1971)
+IBM,1972,IBM_1972_stripes.png,1.0,Paul Rand 8-bar striped (1972-today)
+Intel,0,INTEL_1968_dropped-e.png,1.0,Dropped-e (1968-2005)
+Intel,2006,INTEL_2006_swirl.png,1.0,Swirl (2006-2019)
+Intel,2020,INTEL_2020.png,1.0,Current (2020-today)
+Apple,0,APPLE_1976_newton.png,1.0,Newton woodcut (1976)
+Apple,1977,APPLE_1977_rainbow.png,1.0,Rainbow apple (1977-1997)
+Apple,1998,APPLE_1998_mono.png,1.0,Monochrome apple (1998-today)

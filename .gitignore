@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Runtime files
+.last_run.log
+.settings.json
+*.tmp
+
+# Your own data and output (remove these lines if you want to version your signs)
+signs.csv
+Museum Signs.pdf

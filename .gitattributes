@@ -1,0 +1,10 @@
+* text=auto
+*.command text eol=lf
+*.py text eol=lf
+*.applescript text eol=lf
+*.png binary
+*.ttf binary
+*.pdf binary
+*.scpt binary
+*.icns binary
+*.car binary
